@@ -1,0 +1,11 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "**This directory is not required, you can delete it if you don't want to use it.**",
+  "main": "sw.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
